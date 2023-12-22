@@ -1,0 +1,6 @@
+Apple - Quantity: 2,Bread - Quantity: 1,Milk - Quantity: 1,Total Cost $8.46,er
+Apple - Quantity: 1,Total Cost $0.99,er
+Milk - Quantity: 1,Bread - Quantity: 1,Total Cost $6.48,er
+Apple - Quantity: 1,Burger - Quantity: 1,Total Cost $8.98,nurlan
+Apple - Quantity: 2,Milk - Quantity: 1,Burger - Quantity: 2,Total Cost $21.950000000000003,nurlan
+Burger - Quantity: 3,Total Cost $23.97,nurlan
